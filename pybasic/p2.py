@@ -94,4 +94,4 @@ df.iloc[:,0:4].corr()
 # %%
 # pw와 pl의 상관성 시각화
 sns.heatmap(df.iloc[:, 0:4].corr(), annot=True)
-# %%
+# %%``
